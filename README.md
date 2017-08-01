@@ -2,9 +2,9 @@
 
 Cách chạy thử:
 
-1. ```git clone https://github.com/TechMaster/pg_promise_rest.git```
+1. ```git clone https://github.com/thanhdat21293/rest_api_todo_vue.git```
 
-2. ```cd pg_promise_rest```
+2. ```cd rest_api_todo_vue```
 
 3. ```npm install```
 
