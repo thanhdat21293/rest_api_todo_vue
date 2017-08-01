@@ -1,0 +1,21 @@
+{
+  "name": "rest-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "author": "Dat",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "chai": "^4.1.0",
+    "chai-as-promised": "^7.1.1",
+    "express": "^4.15.3",
+    "pg-promise": "^6.3.6",
+    "pg-structure": "^4.0.1"
+  }
+}

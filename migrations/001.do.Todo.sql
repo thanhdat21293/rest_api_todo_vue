@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS todolist CASCADE;
+CREATE TABLE todolist
+(
+  id   SERIAL PRIMARY KEY,
+  title VARCHAR(50) NOT NULL,
+  completed BOOLEAN DEFAULT false
+);
